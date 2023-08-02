@@ -1,0 +1,9 @@
+{
+    base_url: 'https://www.site.com',
+    items: [
+        {
+            s_id: 123,
+            url: '/home/resources/123123-test-item'
+        }
+    ]
+}
